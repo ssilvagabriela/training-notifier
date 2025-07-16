@@ -1,0 +1,37 @@
+2025-07-15 00:28:36,433 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 00:28:40,020 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 00:30:20,775 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 00:30:21,390 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 00:31:50,279 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 00:31:50,893 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 00:31:52,008 - INFO - E-mail enviado com sucesso para Gestor A
+2025-07-15 00:38:28,162 - INFO - Iniciando execução do processo de cobrança...
+2025-07-15 00:38:28,919 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 00:38:29,539 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 00:38:29,821 - INFO - Cobrança de colaboradores finalizada.
+2025-07-15 00:38:30,750 - INFO - E-mail enviado com sucesso para Gestor A
+2025-07-15 00:38:30,986 - INFO - Cobrança de gestores finalizada.
+2025-07-15 00:40:19,704 - INFO - Iniciando execução do processo de cobrança...
+2025-07-15 00:40:20,548 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 00:40:21,247 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 00:40:21,470 - INFO - Cobrança de colaboradores finalizada.
+2025-07-15 00:40:23,304 - INFO - E-mail enviado com sucesso para Gestor A
+2025-07-15 00:40:23,595 - INFO - Cobrança de gestores finalizada.
+2025-07-15 11:33:40,027 - INFO - _____Iniciando execução do processo de cobrança_____
+2025-07-15 11:33:50,457 - ERROR - Erro ao enviar e-mail para Alice Silva: (501, b'5.1.7 Invalid address', 'None')
+2025-07-15 11:34:00,752 - ERROR - Erro ao enviar e-mail para Carlos Souza: (501, b'5.1.7 Invalid address', 'None')
+2025-07-15 11:34:00,892 - INFO - _____Cobrança de colaboradores finalizada_____
+2025-07-15 11:34:11,311 - ERROR - Erro ao enviar e-mail para Gestor A: (501, b'5.1.7 Invalid address', 'None')
+2025-07-15 11:34:11,420 - INFO - _____Cobrança de gestores finalizada_____
+2025-07-15 11:37:42,189 - INFO - _____Iniciando execução do processo de cobrança_____
+2025-07-15 11:37:47,891 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 11:37:48,323 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 11:37:48,540 - INFO - _____Cobrança de colaboradores finalizada_____
+2025-07-15 11:37:49,173 - INFO - E-mail enviado com sucesso para Gestor A
+2025-07-15 11:37:49,455 - INFO - _____Cobrança de gestores finalizada_____
+2025-07-15 11:39:27,424 - INFO - _____Iniciando execução do processo de cobrança_____
+2025-07-15 11:39:28,058 - INFO - E-mail enviado com sucesso para Alice Silva
+2025-07-15 11:39:28,473 - INFO - E-mail enviado com sucesso para Carlos Souza
+2025-07-15 11:39:28,898 - INFO - _____Cobrança de colaboradores finalizada_____
+2025-07-15 11:39:29,697 - INFO - E-mail enviado com sucesso para Gestor A
+2025-07-15 11:39:30,539 - INFO - _____Cobrança de gestores finalizada_____
