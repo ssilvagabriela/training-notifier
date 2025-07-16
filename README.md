@@ -31,8 +31,8 @@ Este projeto automatiza o envio de e-mails de cobrança relacionados ao programa
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/zero-outage-cobranca.git
-cd zero-outage-cobranca
+git clone https://github.com/ssilvagabriela/training-notifier.git
+cd training-notifier
 ```
 
 ### 2. Crie e ative um ambiente virtual (opcional)
